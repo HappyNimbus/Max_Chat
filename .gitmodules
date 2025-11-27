@@ -1,0 +1,6 @@
+[submodule "chat_backend"]
+	path = chat_backend
+	url = https://github.com/HappyNimbus/Max_Chat_BE.git
+[submodule "chat_frontend"]
+	path = chat_frontend
+	url = https://github.com/HappyNimbus/Max_Chat_FE.git
